@@ -49,7 +49,7 @@ export const NavBar = () => {
               <div className="social-icon">
                 <a href="https://www.linkedin.com/in/munyentwari-ismail/"><img src={navIcon1} alt="" /></a>
                 <a href="https://www.facebook.com/ismail.mn.35"><img src={navIcon2} alt="" /></a>
-                <a href="https://www.instagram.com/ismail_0258/"><img src={navIcon3} alt="" /></a>
+                <a href="https://www.instagram.com/isma_code01/"><img src={navIcon3} alt="" /></a>
               </div>
               <a href = "https://drive.google.com/file/d/1KlvIyfNEW-G4em6z-A2lzkhDRsZe7VlC/view?usp=sharing">
                 <button className="vvd"><span>Get My Resume</span></button>
